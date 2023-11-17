@@ -1,0 +1,8 @@
+Story:
+John was a cybersecurity expert who had just been hired by a new client. He was tasked with assessing the client's system for any vulnerabilities. After running a thorough scan, John discovered that the client's system had a vulnerability in the On-Access Scanner in McAfee VirusScan Enterprise before 8.0i Patch 12. This vulnerability allowed user-assisted remote attackers to execute arbitrary code via a long filename containing multi-byte (Unicode) characters. John immediately informed the client of the vulnerability and recommended that they update their system to the latest patch to prevent any potential attacks. The client was grateful for John's expertise and quick action, and they immediately implemented the recommended patch to secure their system.
+
+Task:
+Find the identity(CVE) of the vulnerability that John patched.
+
+Flag Format:
+PRAJCTF{<identity>}
