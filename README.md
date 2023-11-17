@@ -1,5 +1,5 @@
 # Basic CTF #
-A beginner level CTF designed for absolute beginners. Taste the flavour of Cyber Security through this basic CTF.
+A beginner level CTF designed for absolute beginners. Taste the flavour of Cyber Security through this basic CTF. \
 [![ctfHome.png](https://i.postimg.cc/RFxsb43D/ctfHome.png)](https://postimg.cc/1gMr8xrG)
 ## Checking for Flags ##
 To check if your flag is correct or not, head to the provided [website](https://bhaskar-sahas-team.adalo.com/basic-ctf?_gl=1%2Acysoe4%2A_ga%2AMTExMjQyNTY0Mi4xNzAwMjIxMDA4%2A_ga_SWT45DV35L%2AMTcwMDIyMTAzNy4xLjEuMTcwMDIyMTgyNi4xMy4wLjA.&target=818468a1bfad492599706dafa106d579&params=%7B%7D) and then do either of the following:
