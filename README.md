@@ -20,7 +20,7 @@ Hint: Is it actually an Image? Or a Text? \
 Level: Easy \
 Category: Forensics
 ### 4. Hidden ###
-Hint: Something is Hidden in here. \
+Hint: You need some Magic to find the hidden treasure. \
 Level: Medium/Difficult \
 Category: Forensics
 ### 5. JS ###
